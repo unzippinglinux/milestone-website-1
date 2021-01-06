@@ -1,0 +1,47 @@
+body {
+  /* font-family: "Bebas Neue", cursive; */
+  font-family: "Poppins", sans-serif;
+}
+
+section {
+  height: 500px;
+  padding-bottom: 150px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.orange-text {
+  color: #ff8367;
+}
+
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+
+.half-width img {
+  width: 80%;
+}
+
+.link-button {
+  text-decoration: none;
+  background-color: #ff8367;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: 700;
+}
+
+#latest-project-title {
+  text-align: center;
+}
+
+.cards {
+  box-shadow: 5px 5px 40px lightgray;
+  border-radius: 5px;
+  height: 80%;
+}
